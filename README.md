@@ -1,5 +1,5 @@
 # indoor_outdoor_classification
-Classify your pictures by classes indoor and outdoor with a CNN implemented with keras and tensorflow as backend!
+Classify your images by classes indoor and outdoor with a CNN implemented with keras and tensorflow as backend!
 
 ## Predict your images:
 ```
