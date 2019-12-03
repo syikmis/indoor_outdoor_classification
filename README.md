@@ -18,7 +18,7 @@ Your train data has to be divided into two directories [../data/indoor, ../data/
 ```
 python train.py --path path/to/your/train/data
 ```
-Running the train script results in weights.h5 file and overwrites the previous one.For transfer learning Inception-ResNet V2 model is used, with weights pre-trained on ImageNet.
+Running the train script results in weights.h5 file and overwrites the previous one. For transfer learning Inception-ResNet V2 model is used, with weights pre-trained on ImageNet.
 
 ## Authors
 * Şiyar Yıkmış
